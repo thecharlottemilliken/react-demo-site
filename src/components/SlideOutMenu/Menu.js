@@ -43,9 +43,9 @@ class MenuToggle extends React.Component {
 
                             <MenuItems isOpen={this.state.open}>
                                 <MenuItem href="#" isOpen={this.state.open}>Home</MenuItem>
-                                <MenuItem href="#" isOpen={this.state.open}>About</MenuItem>
-                                <MenuItem href="#" isOpen={this.state.open}>Services</MenuItem>
-                                <MenuItem href="#" isOpen={this.state.open}>Contact</MenuItem>
+                                <MenuItem href="#" isOpen={this.state.open}>Link 2</MenuItem>
+                                <MenuItem href="#" isOpen={this.state.open}>Link 3</MenuItem>
+                                <MenuItem href="#" isOpen={this.state.open}>Link 4</MenuItem>
                             </MenuItems>
                         </MenuDrawer>
                     }

@@ -16,8 +16,7 @@ display: flex;
 justify-content: ${props => props.align || "center"};
 flex-direction: ${props => props.direction};
 align-items: center;
-padding-left: 10%;
-padding-right: 10%;
+padding: 5% 10%;
 color: white;
 
 @media only screen and (max-width: 1050px){
@@ -26,5 +25,6 @@ color: white;
     justify-content: center;
     flex-direction: column;
     align-content: center;
+    padding: 20px 10%;
 }
 `;
