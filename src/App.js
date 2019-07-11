@@ -38,7 +38,7 @@ class App extends Component {
             <strong>“Should the creator of CSSinJS be expelled from the dev community?” </strong>
             <br />
             <br />
-            At first, I was disgusted. Then I was intrigued. Then I understood it’s advantages. CSSinJS is by no means needed for every project. However, it shouldn’t be taken as useless only because it seems like a heinous crime against all front end developers. In short, it’s not CSS. It’s not JS. Don’t approach it with the expectation it will make sense. As long as you expect it to be strange and perplexing, you will be able to see and utilize the advantages quickly.
+            At first, I was disgusted. Then I was intrigued. Then I understood its advantages. CSSinJS is by no means needed for every project. However, it shouldn’t be taken as useless only because it seems like a heinous crime against all front end developers. In short, it’s not CSS. It’s not JS. Don’t approach it with the expectation it will make sense. As long as you expect it to be strange and perplexing, you will be able to see and utilize the advantages quickly.
             </Paragraph>
         </HalfHeightContainer>
 
